@@ -1,7 +1,6 @@
 ---
 title: "README.md"
 
-Output : a dataframe of averages in grouped_df form with name "averages"
 
 ---
 
